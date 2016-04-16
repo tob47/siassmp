@@ -11,6 +11,7 @@ Design
 Full Browser
 
 Environment recomended
+------------
 
 - Webserver Apache 2.x (http://www.apachefriends.org, XAMPP 1.7.x) 
 - PHP 5.x (http://www.apachefriends.org, XAMPP 1.7.x)
