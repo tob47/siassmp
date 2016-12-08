@@ -51,7 +51,7 @@ Untuk Arikel bisa kunjung tautan berikut ini :
 
 [Sistem Informasi Akademik SMP dengan PHP](http://www.tobiweb.id/2016/01/sistem-informasi-akademik-smp-dengan.html)
 
-Copyright & License
+License
 -------
-Copyright (c) 2015 Tobiweb.id
+2015 Tobiweb.id
 [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.html)
